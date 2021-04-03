@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="SCP">
-    <output-path>$USER_HOME$/Downloads/Server/plugins</output-path>
-    <root id="archive" name="SCP.jar">
-      <element id="module-output" name="SCPSL" />
-    </root>
-  </artifact>
-</component>
