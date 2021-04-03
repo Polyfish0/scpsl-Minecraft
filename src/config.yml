@@ -1,0 +1,60 @@
+spawnpoints:
+  dboy:
+    ==: Vector
+    x: -1.0
+    y: -1.0
+    z: -1.0
+  scientist:
+    ==: Vector
+    x: -1.0
+    y: -1.0
+    z: -1.0
+  mtf:
+    ==: Vector
+    x: -1.0
+    y: -1.0
+    z: -1.0
+  chaos:
+    ==: Vector
+    x: -1.0
+    y: -1.0
+    z: -1.0
+  049:
+    ==: Vector
+    x: -1.0
+    y: -1.0
+    z: -1.0
+  096:
+    ==: Vector
+    x: -1.0
+    y: -1.0
+    z: -1.0
+  106:
+    ==: Vector
+    x: -1.0
+    y: -1.0
+    z: -1.0
+  173:
+    ==: Vector
+    x: -1.0
+    y: -1.0
+    z: -1.0
+  93953:
+    ==: Vector
+    x: -1.0
+    y: -1.0
+    z: -1.0
+  93989:
+    ==: Vector
+    x: -1.0
+    y: -1.0
+    z: -1.0
+  facility:
+    ==: Vector
+    x: -1.0
+    y: -1.0
+    z: -1.0
+lobbytime: 30
+minPlayer: 2
+maxPlayer: 30
+spawnPattern: "40143140314414041340"

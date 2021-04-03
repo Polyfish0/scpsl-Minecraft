@@ -1,0 +1,8 @@
+name: SCPSL
+main: de.igamblenull.scpsl.Main
+version: 0.1
+api-version: 1.16
+commands:
+  scp:
+    usage: /scp
+    description: Peanut4Life
